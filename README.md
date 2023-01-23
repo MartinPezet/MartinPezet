@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MartinPezet
-- 👀 I’m interested in Artificial Intelligence and Robotics Software Development
+- 👀 I’m interested in Software Development as a career and am really enjoying working with as many different technologies
 - 🌱 I’m currently learning to develop RESTful APIs
 - 📫 Feel free to add me on LinkedIn: https://www.linkedin.com/in/martin-pezet-36306a181
 
