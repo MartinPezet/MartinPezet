@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinPezet
-- 👀 I’m interested in Software Development as a career and am really enjoying working with as many different technologies
-- 🌱 I’m currently learning to develop RESTful APIs
+- 👀 I'm a Full stack Engineer who mainly works with Vue.js, NuxtJS and Laravel
+- 🌱 I'm also working on my React.js and Next.js skills
 - 📫 Feel free to add me on LinkedIn: https://www.linkedin.com/in/martin-pezet-36306a181
 
 <!---
