@@ -14,4 +14,4 @@ Fun Facts
 - I love playing, refereeing and watching Rugby
 - I also love sailing
 
-📫 Feel free to add me on LinkedIn: https://www.linkedin.com/in/martin-pezet-36306a181
+📫 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/martin-pezet-36306a181)
